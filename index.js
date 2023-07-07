@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Happy Birthday to You \n Click vào mở thư nhé 🤗." //Lời mở đầu cho bức thư
-const mainContentLetter = "Happy birthday! Dù là muộn nhưng tớ vẫn muốn gửi đến cậu những lời chúc tốt đẹp nhất. Ngày sinh nhật là dịp để chúng ta gửi đi những lời yêu thương, những lời chúc tốt đẹp nhất đến nhau. Mong rằng cậu sẽ có một ngày sinh nhật thật tràn đầy niềm vui và hạnh phúc bên gia đình và những người thân yêu. Chúc cậu luôn thành công trong cuộc sống, hạnh phúc và tràn đầy sức khỏe. Happy birthday dear 💋!." //Nội dung của bức thư
+const mainContentLetter = " Happy birthday! Dù là muộn nhưng tớ vẫn muốn gửi đến cậu những lời chúc tốt đẹp nhất. Chúc cậu luôn thành công, hạnh phúc và tràn đầy sức khỏe. I wish you a happy birthday dear 🎂🎂🎂!." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
